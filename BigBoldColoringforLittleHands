@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Big Bold Coloring for Little Hands</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff8f0;
+      color: #333;
+      text-align: center;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 2.5rem;
+      color: #d35400;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 700px;
+      margin: auto;
+    }
+    .button {
+      display: inline-block;
+      padding: 1rem 2rem;
+      margin-top: 2rem;
+      background-color: #e67e22;
+      color: white;
+      font-size: 1.2rem;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background-color 0.3s ease;
+    }
+    .button:hover {
+      background-color: #ca6f1e;
+    }
+  </style>
+</head>
+<body>
+  <h1>Big Bold Coloring for Little Hands</h1>
+  <p>
+    Welcome to the official page for our toddler-friendly coloring book series! <br />
+    <strong>“Big Bold Coloring for Little Hands”</strong> was created to help your child develop key skills while having fun.
+  </p>
+  <a 
+    class="button" 
+    href="https://www.amazon.com/Big-Bold-Coloring-Little-Hands/dp/B0F6SWPWZV/ref=sr_1_1?crid=1O663O4CQ6OFD&keywords=big+bold+coloring+for+little+hands&qid=1746477010&sprefix=big+bold+coloring+for+litt%2Caps%2C196&sr=8-1" 
+    target="_blank"
+  >
+    Buy on Amazon
+  </a>
+</body>
+</html>
